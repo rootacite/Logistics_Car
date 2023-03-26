@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Core/Inc/atk_md0280.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/atk_md0280_font.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/atk_md0280_fsmc.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/atk_md0280_fsmc.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/bsp_ili9341_lcd.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/bsp_ili9341_lcd.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/fonts.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/fonts.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/palette.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/main.c" charset="GBK" />
+  </component>
+</project>
